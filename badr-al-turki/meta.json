@@ -1,0 +1,8 @@
+{
+  "slug": "badr-al-turki",
+  "name": "Badr Al-Turki",
+  "name_ar": "بدر التركي",
+  "format": "surah",
+  "has_word_segments": false,
+  "source": "audio quranicaudio.com (badr_al_turki/mp3), ayah times Hugging Face zaibihassan/Quranic-Recitation-Data (badr-al-turki-murattal, Apache-2.0)"
+}

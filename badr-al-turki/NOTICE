@@ -1,0 +1,11 @@
+Verse timings of Badr Al-Turki's recitation (segments.json)
+
+Taken from "Quranic-Recitation-Data" by zaibihassan,
+https://huggingface.co/datasets/zaibihassan/Quranic-Recitation-Data (badr-al-turki-murattal),
+licensed under the Apache License, Version 2.0 (see LICENSE in this folder).
+
+Changes: only the start and end time of each verse inside its surah were used (no word times,
+no audio from that dataset); verse starts were moved up to 120 ms earlier; verse 1 of each surah
+starts at 0; written in the format of this repository.
+
+The audio is streamed from quranicaudio.com and, for surahs 13 and 20, from mp3quran.net.
