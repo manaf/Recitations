@@ -1,0 +1,8 @@
+{
+  "slug": "ghamdi",
+  "name": "Saad Al-Ghamdi",
+  "name_ar": "سعد الغامدي",
+  "format": "surah",
+  "has_word_segments": true,
+  "source": "surah MP3s from quranicaudio.com (quran.com); word timings from Tarteel ayah files located in each surah by sound (scripts/recitation/surah_from_qdc)"
+}
